@@ -4,7 +4,7 @@ http://localhost:8080/driver/addDriver
 
 body : 
 {
-    "fullNam": "Yash Gupta",
+    "fullName": "Yash Gupta",
     "available": false,
     "email": "yashgupta@gmail.com",
     "mobileNumber": "5754567875"
